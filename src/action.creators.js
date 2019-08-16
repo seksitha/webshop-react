@@ -1,0 +1,1 @@
+export const API_GET_DATA_CATEGORIES = '$$api-GET_DATA_CATEGORIES'; 
